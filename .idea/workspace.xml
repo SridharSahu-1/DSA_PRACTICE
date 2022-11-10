@@ -23,7 +23,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/sridh/IdeaProjects/DSA_PRACTICE/src/Trees"
+    "last_opened_file_path": "D:/Codes/DSA_PRACTICE"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668018189412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Trees">
+      <created>1668018745836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668018745836</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
