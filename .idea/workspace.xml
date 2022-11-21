@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df0e43a2-a19f-485c-afcd-dede64418edb" name="Changes" comment="Trees" />
+    <list default="true" id="df0e43a2-a19f-485c-afcd-dede64418edb" name="Changes" comment="Recursion Question">
+      <change afterPath="$PROJECT_DIR$/src/Practice/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Practice/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice/Linkedlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice/LL.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +43,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Codes/DSA_PRACTICE&quot;
+    &quot;last_opened_file_path&quot;: &quot;E:/Codes/DSA_PRACTICE&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -49,7 +54,7 @@
       <recent name="C:\Users\sridh\IdeaProjects\DSA_PRACTICE\src\Arrays" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Main" />
       <module name="DSA_PRACTICE" />
@@ -63,8 +68,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.main" />
+      <module name="DSA_PRACTICE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -127,7 +146,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668271443011</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Trees">
+      <created>1668769618031</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668769618031</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Recursion Question">
+      <created>1668878069445</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1668878069445</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Recursion Question">
+      <created>1668958145681</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1668958145681</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Trees" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trees" />
+    <MESSAGE value="Recursion Question" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursion Question" />
   </component>
 </project>
