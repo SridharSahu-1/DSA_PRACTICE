@@ -4,9 +4,11 @@ public class TreeNode {
     int val;
     TreeNode left;
     TreeNode right;
-    public TreeNode(int val){
+    TreeNode(int val){
         this.val=val;
         left=right=null;
     }
 
 }
+
+
