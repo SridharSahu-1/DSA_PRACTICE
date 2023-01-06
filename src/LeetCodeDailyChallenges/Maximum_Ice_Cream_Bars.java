@@ -1,4 +1,5 @@
 package LeetCodeDailyChallenges;
+import java.util.*;
 
 class Maximum_Ice_Cream_Bars {
     public int maxIceCream(int[] costs, int coins) {
