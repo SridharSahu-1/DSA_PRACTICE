@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df0e43a2-a19f-485c-afcd-dede64418edb" name="Changes" comment="DP Question" />
+    <list default="true" id="df0e43a2-a19f-485c-afcd-dede64418edb" name="Changes" comment="Leetcode Daily Solution">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -419,7 +421,70 @@
       <option name="project" value="LOCAL" />
       <updated>1673460231879</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Leetcode Daily Solution">
+      <created>1673545917376</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1673545917376</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Leetcode Daily Solution">
+      <created>1673628655253</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1673628655253</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Leetcode Daily Solution">
+      <created>1673708408411</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1673708408411</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Leetcode Daily Solution">
+      <created>1673794281728</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1673794281728</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Leetcode Daily Solution">
+      <created>1673883794254</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1673883794261</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Leetcode Daily Solution">
+      <created>1673977001568</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1673977001568</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Leetcode Daily Solution">
+      <created>1674065199105</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1674065199105</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Leetcode Daily Solution">
+      <created>1674151504104</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1674151504104</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Leetcode Daily Solution">
+      <created>1674493735755</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1674493735755</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,6 +502,7 @@
     <MESSAGE value="Trees" />
     <MESSAGE value="Recursion Question" />
     <MESSAGE value="DP Question" />
-    <option name="LAST_COMMIT_MESSAGE" value="DP Question" />
+    <MESSAGE value="Leetcode Daily Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode Daily Solution" />
   </component>
 </project>
