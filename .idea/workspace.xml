@@ -141,41 +141,6 @@
       <option name="presentableId" value="Default" />
       <updated>1668017770470</updated>
     </task>
-    <task id="LOCAL-00001" summary="Trees">
-      <created>1668017996054</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1668017996054</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Trees">
-      <created>1668018171230</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1668018171230</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Trees">
-      <created>1668018189412</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1668018189412</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Trees">
-      <created>1668018745836</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1668018745836</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Trees">
-      <created>1668093155632</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1668093155632</updated>
-    </task>
     <task id="LOCAL-00006" summary="Trees">
       <created>1668186802668</created>
       <option name="number" value="00006" />
@@ -484,7 +449,42 @@
       <option name="project" value="LOCAL" />
       <updated>1674493735755</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Leetcode Daily Solution">
+      <created>1675189213308</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1675189213308</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Leetcode Daily Solution">
+      <created>1675274876090</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1675274876090</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Leetcode Daily Solution">
+      <created>1675361092442</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1675361092442</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Leetcode Daily Solution">
+      <created>1675446585443</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1675446585443</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Leetcode Daily Solution">
+      <created>1675531379758</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1675531379774</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
