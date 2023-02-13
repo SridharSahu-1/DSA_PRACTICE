@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df0e43a2-a19f-485c-afcd-dede64418edb" name="Changes" comment="Leetcode Daily Solution">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df0e43a2-a19f-485c-afcd-dede64418edb" name="Changes" comment="Leetcode Daily Solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,13 +138,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668017770470</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Recursion Question">
-      <created>1668878069445</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1668878069445</updated>
     </task>
     <task id="LOCAL-00010" summary="Recursion Question">
       <created>1668958145681</created>
@@ -484,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675794197628</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Leetcode Daily Solution">
+      <created>1676138357227</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1676138357242</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
